@@ -1,0 +1,6 @@
+.env
+recording/*
+!recording/.gitkeep
+transcript/*
+!transcript/.gitkeep
+.venv
